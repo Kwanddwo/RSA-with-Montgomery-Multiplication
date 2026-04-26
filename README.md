@@ -50,6 +50,8 @@ You can now use it to benchmark a specific script:
 
 it should give an output like the following:
 
+<img width="601" height="217" alt="image" src="https://github.com/user-attachments/assets/9639d693-f264-437c-b7e0-ea1cf465596d" />
+
 ### Tips for fair results
 
 - Run on an idle machine and close heavy background apps.
